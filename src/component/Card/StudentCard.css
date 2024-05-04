@@ -1,0 +1,30 @@
+.topic {
+    font-size: 28px;
+}
+
+.input-filed {
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+
+}
+
+.input-aria {
+    width: 100%;
+
+}
+
+.bottom-container-topic {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+    width: 100%;
+    padding: 8px;
+
+}
